@@ -31,7 +31,7 @@ class Scanner
         return $invalidUrls;
     }
 
-    protected function getStatusCodesForUrl($url)
+    protected function getStatusCodeForUrl($url)
     {
         $httpResponse = $this->httpClient->options($url);
 
