@@ -1,6 +1,6 @@
 {
     "name": "metatation/urltest",
-    "description: "Scan URLs from a CSV file and report errors",
+    "description": "Scan URLs from a CSV file and report errors",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://sweatdown.com",
     "license": "MIT",
